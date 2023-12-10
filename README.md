@@ -27,3 +27,5 @@ Ajustements
 Tirer sur des ennemies: en appuyant sur T les véhicules peuvent tirer sur des ennemies qui ont un comportement Wander + collision + rebandire au bord de l'ecran
 Les comportements des véhicules peuvent être modifiés en ajustant les valeurs telles que la taille de la zone à éviter, les poids des comportements, etc.
 Des nouvelles fonctionnalités peuvent être ajoutées en modifiant les méthodes dans la classe Vehicle dans le fichier script.js.
+
+Tout cela avec l'aide de ChatGPT (il m'a fait n'importe quoi) 
